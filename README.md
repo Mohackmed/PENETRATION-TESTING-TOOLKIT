@@ -1,5 +1,17 @@
 # PENETRATION-TESTING-TOOLKIT
 
+COMPANY: CODTECH IT SOLUTION
+
+NAME: MOHAMED ABDULLAH R
+
+INTERN ID: CT04DH426
+
+DOMAIN: CYBER SECURITY & ETHICAL HACKING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # 🛠️ Penetration Testing Toolkit
 
 This Python-based toolkit provides essential tools for penetration testing, including:
@@ -22,18 +34,3 @@ Performs HTTP POST brute-force attack on login forms.
 ## Requirements
 - Python 3.x
 - `requests` library (for brute-forcer)
-
-```bash
-pip install requests
-
-COMPANY: CODTECH IT SOLUTION
-
-NAME: MOHAMED ABDULLAH R
-
-INTERN ID: CT04DH426
-
-DOMAIN: CYBER SECURITY & ETHICAL HACKING
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
