@@ -34,3 +34,7 @@ Performs HTTP POST brute-force attack on login forms.
 ## Requirements
 - Python 3.x
 - `requests` library (for brute-forcer)
+
+## Output
+
+<img width="1631" height="980" alt="Pentest" src="https://github.com/user-attachments/assets/48ce8219-b436-43c5-852c-3d9d8c973619" />
